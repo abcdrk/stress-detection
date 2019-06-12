@@ -1,4 +1,4 @@
-Session,Device ID,Participant ID,UTC_Start,UTC_End,Perceived score (L-H),Perceived Score (L-M-H),Known Context
+Session,DeviceID,ParticipantID,UTC_Start,UTC_End,2ClassScore,3ClassScore,KnownContext
 1,A012B4,1,1552980542,1552991342,L,M,L
 2,A010C3,1,1552990800,1552991100,L,M,H
 3,A010C3,1,1552991491,1552992391,H,H,M
